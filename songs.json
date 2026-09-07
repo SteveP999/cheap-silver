@@ -4,7 +4,7 @@
     "num": "01",
     "title": "I'm a Fool",
     "artist": "Cheap Silver",
-    "album": "Bad Luck & Bright Lights",
+    "album": "Singles",
     "trackNumber": 1,
     "albumOrder": 1,
     "albumCover": "images/covers/cheap-silver-bad-luck-and-bright-lights-album-cover.png",
@@ -18,18 +18,14 @@
     "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
-    "streaming": {
-      "spotify": "",
-      "apple": "",
-      "youtubeMusic": ""
-    }
+    "streaming": {}
   },
   {
     "id": "cheap-silver-my-baby-knows-my-order",
     "num": "02",
     "title": "My Baby Knows My Order",
     "artist": "Cheap Silver",
-    "album": "Bad Luck & Bright Lights",
+    "album": "Singles",
     "trackNumber": 2,
     "albumOrder": 2,
     "albumCover": "images/covers/cheap-silver-bad-luck-and-bright-lights-album-cover.png",
@@ -50,7 +46,7 @@
     "num": "03",
     "title": "One More Slow Dance",
     "artist": "Cheap Silver",
-    "album": "Bad Luck & Bright Lights",
+    "album": "Singles",
     "trackNumber": 3,
     "albumOrder": 3,
     "albumCover": "images/covers/cheap-silver-bad-luck-and-bright-lights-album-cover.png",

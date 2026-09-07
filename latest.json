@@ -1,11 +1,11 @@
 {
   "title": "I'm a Fool",
   "artist": "Cheap Silver",
-  "album": "Bad Luck & Bright Lights",
+  "album": "Singles",
   "type": "Latest Single",
   "cover": "images/covers/cheap-silver-im-a-fool-cover.png",
   "image": "images/covers/cheap-silver-im-a-fool-cover.png",
-  "audio": "",
-  "audioSrc": "",
+  "audio": "https://www.dropbox.com/scl/fi/m9ejpeot7312rloxzpr5s/I-m-a-Fool.mp3?rlkey=utndatzop1a8y1ot8g0hhsdas&raw=1",
+  "audioSrc": "https://www.dropbox.com/scl/fi/m9ejpeot7312rloxzpr5s/I-m-a-Fool.mp3?rlkey=utndatzop1a8y1ot8g0hhsdas&raw=1",
   "videos": []
 }

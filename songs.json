@@ -82,7 +82,7 @@
     "album": "Bad Luck & Bright Lights",
     "trackNumber": 4,
     "albumOrder": 4,
-    "albumCover": "",
+    "albumCover": "images/covers/cheap-silver-bad-luck-and-bright-lights-ALBUM-cover.png",
     "type": "single",
     "isLatest": true,
     "cover": "images/covers/cheap-silver-bad-luck-bright-lights-cover.png",
@@ -93,6 +93,10 @@
     "includeOnHomepage": true,
     "explicit": false,
     "tags": [],
-    "streaming": {}
+    "streaming": {
+      "spotify": "",
+      "apple": "",
+      "youtubeMusic": ""
+    }
   }
 ]
